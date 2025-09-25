@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.zip
+CMeKG_tools_V3/
+*.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+
